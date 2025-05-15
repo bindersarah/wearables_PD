@@ -23,7 +23,7 @@ Model convolutional layers for feature extraction: employing smaller kernels to 
 ### Key Files
   1. Get_Synapse_Data
   2. Preprocess_aim2 (performs windowing, splits data with groupshufflesplit to extract a holdout set for testing)
-  3. MLW_train_cnn (builds and trains CNN, evaluation done on holdout data, using model with best val_accuracy)
+  3. MLW_train_cnn_exec (builds and trains CNN, evaluation done on holdout data, using model with best val_accuracy)
 
 ## Data Source
 https://www.synapse.org/Synapse:syn52540892/wiki/623751
