@@ -18,7 +18,7 @@ Predict cohort (control or Parkinson's Disease)
 
 ### Model
 Builds CNN from TUG and walking tasks. 
-Model success comes from convolutional layers for feature extractin: employing smaller kernels to detect fine-grained motion like PD tremors, and larger kernels to detect gait impairment and bradykinesia.
+Model convolutional layers for feature extraction: employing smaller kernels to detect fine-grained motion like PD tremors, and larger kernels to detect gait impairment and bradykinesia.
 
 ### Key Files
   1. Get_Synapse_Data
